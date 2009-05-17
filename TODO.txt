@@ -1,0 +1,31 @@
+TODO LIST
+=========
+
+Creating a tour/tutorial
+------------------------
+we may thing to 2 differents way to create tutorials:
+ - using AT objects inside plone
+ - via paster creating more packages in the collective.amberjack namespace
+we could do both.
+
+ * ajmetatour needs to be completed
+	a tour is an AT
+		it's composed by macrosteps (another AT)
+			(no more inner levels steps as AT)
+	the tour and the associated js should appear dinamically
+	register a tour? use a workflow state to define who sees what?
+ * the whole aj can manage branches like 'if you are not logged in, then, log in'
+
+ * tours using paster
+	register a tour
+
+
+Others
+------
+ * load the js stuff only if the tour is running
+ * check if the user really completes the macrostep
+ * check if the texts entered in the fields are the ones we expected. if not we may have problems with ids and with the xcontent.
+ * need to think to a different (or alternative way) to identify the page form the html it produces. xpath and xcontent may non be enought because of translations
+ * create a portlet on which a user can select the tour choosing between the registered ones / created ones
+
+
