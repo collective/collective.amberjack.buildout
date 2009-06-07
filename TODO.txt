@@ -1,6 +1,10 @@
 TODO LIST
 =========
 
+see:
+http://www.openplans.org/projects/collectiveamberjack/project-home
+
+
 Creating a tour/tutorial
 ------------------------
 we may thing to 2 differents way to create tutorials:
@@ -16,6 +20,8 @@ we could do both.
 	register a tour? use a workflow state to define who sees what?
  * the whole aj can manage branches like 'if you are not logged in, then, log in'
 
+ * using selenium!?
+
  * tours using paster
 	register a tour
 
@@ -27,5 +33,5 @@ Others
  * check if the texts entered in the fields are the ones we expected. if not we may have problems with ids and with the xcontent.
  * need to think to a different (or alternative way) to identify the page form the html it produces. xpath and xcontent may non be enought because of translations
  * create a portlet on which a user can select the tour choosing between the registered ones / created ones
-
-
+ * create a temporary tutorial area for each tutorial running. delete it as soon as the tutorial exits or in some way quits
+ * let the popup be movable and resizable, maybe an handle may help.
