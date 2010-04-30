@@ -3,7 +3,10 @@
 #
 
 # dependencies
+#
 collective.amberjack.core 	https://svn.plone.org/svn/collective/collective.amberjack.core/branches/plone3
 collective.amberjack.portlet 	https://svn.plone.org/svn/collective/collective.amberjack.portlet/branches/plone3
-collective.amberjack.metatour 	https://svn.plone.org/svn/collective/collective.amberjack.metatour/branches/plone3
 collective.amberjack.plonetour 	https://svn.plone.org/svn/collective/collective.amberjack.plonetour/branches/plone3
+
+# for now it's not a dependency
+# collective.amberjack.metatour 	https://svn.plone.org/svn/collective/collective.amberjack.metatour/branches/plone3
