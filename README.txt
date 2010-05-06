@@ -17,13 +17,13 @@ For basic installation use the following section in your buildout::
     ...
     eggs =
         ...
-		collective.amberjack.core
-		collective.amberjack.portlet
-		collective.amberjack.plonetour
-
-	[instance]
+        collective.amberjack.core
+        collective.amberjack.portlet
+        collective.amberjack.plonetour
+    
+    [instance]
 	...
-	zcml =
-    	collective.amberjack.core
-    	collective.amberjack.portlet
-    	collective.amberjack.plonetour
+    zcml =
+        collective.amberjack.core
+        collective.amberjack.portlet
+        collective.amberjack.plonetour
