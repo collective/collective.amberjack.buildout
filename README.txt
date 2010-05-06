@@ -21,9 +21,6 @@ For basic installation use the following section in your buildout::
 		collective.amberjack.portlet
 		collective.amberjack.plonetour
 
-	[versions]
-		Products.DataGridField = 1.6.1
-
 	[instance]
 	...
 	zcml =
