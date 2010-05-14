@@ -1,0 +1,2 @@
+This branch is no longer in used - plone4 buildout is located here:
+http://svn.plone.org/svn/collective/collective.amberjack.buildout/trunk/

@@ -1,9 +1,0 @@
-#
-# created by: svn propset svn:externals -F ./EXTERNALS.txt .
-#
-
-# dependencies
-collective.amberjack.core 	https://svn.plone.org/svn/collective/collective.amberjack.core/branches/plone4/
-collective.amberjack.portlet 	https://svn.plone.org/svn/collective/collective.amberjack.portlet/trunk
-collective.amberjack.metatour 	https://svn.plone.org/svn/collective/collective.amberjack.metatour/trunk
-collective.amberjack.plonetour 	https://svn.plone.org/svn/collective/collective.amberjack.plonetour/branches/plone4
